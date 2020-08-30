@@ -1,7 +1,6 @@
 white = "#FFF";
 forsale_fill = "#3cfe5d";
 forsale_txt = "Eladó";
-forsale_txt = "Eladó";
 sold_fill = "#fe5d3c";
 reserved_fill = "#5d3cfe";
 

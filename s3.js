@@ -186,7 +186,7 @@ var origObject = [
 		SquareMeter: 48.23,
 		BalconySize: 12.98,
 		GardenSize: 0,
-		Price: 35500000,
+		Price: 0,
 		Status: 'Foglalt',
 		Link: '-'
 

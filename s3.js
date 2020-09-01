@@ -88,7 +88,7 @@ var origObject = [
 		BalconySize: 9.54,
 		GardenSize: 24.80,
 		Price: 0,
-		Status: 'Eladva',
+		Status: 'Foglalt',
 		Link: '-'
 	},	
 	{	
@@ -275,7 +275,7 @@ var origObject = [
 		BalconySize: 12.99,
 		GardenSize: 0,
 		Price: 0,
-		Status: 'Foglalt',
+		Status: 'Eladva',
 		Link: '-'
 
 	},	

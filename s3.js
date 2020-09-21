@@ -50,7 +50,7 @@ var origObject = [
 		BalconySize: 11.56,
 		GardenSize: 0,
 		Price: 0,
-		Status: 'Foglalt',
+		Status: 'Eladva',
 		Link: '-'
 
 	},	
@@ -127,7 +127,7 @@ var origObject = [
 		BalconySize: 11.56,
 		GardenSize: 187.30,
 		Price: 0,
-		Status: 'Foglalt',
+		Status: 'Eladva',
 		Link: '-'
 
 	},	
@@ -322,9 +322,9 @@ var origObject = [
 		SquareMeter: 34.73,
 		BalconySize: 7.63,
 		GardenSize: 0,
-		Price: 29900000,
-		Status: 'Eladó',
-		Link: '<a href=\"//www.edisonvilla.hu/listing/212\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
+		Price: 0,
+		Status: 'Eladva',
+		Link: '-'
 
 	},	
 	{	
@@ -361,9 +361,9 @@ var origObject = [
 		SquareMeter: 59.93,
 		BalconySize: 9.54,
 		GardenSize: 0,
-		Price: 49900000,
-		Status: 'Eladó',
-		Link: '<a href=\"//www.edisonvilla.hu/listing/305\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
+		Price: 0,
+		Status: 'Eladva',
+		Link: '-'
 
 	},	
 	{	
@@ -500,7 +500,7 @@ var origObject = [
 		BalconySize: 11.85,
 		GardenSize: 0,
 		Price: 0,
-		Status: 'Foglalt',
+		Status: 'Eladva',
 		Link: '-'
 
 	},	

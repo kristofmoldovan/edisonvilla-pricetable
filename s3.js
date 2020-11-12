@@ -332,7 +332,7 @@ var origObject = [
 		SquareMeter: 66.47,
 		BalconySize: 11.56,
 		GardenSize: 0,
-		Price: 52700000,
+		Price: 0,
 		Status: 'Eladva',
 		Link: '-'
 

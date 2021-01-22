@@ -40,8 +40,8 @@ var origObject = [
 		BalconySize: 8,
 		GardenSize: 0,
 		Price: 0,
-		Status: 'Foglalt',
-		Link: '-'
+		Status: 'Eladó',
+		Link: '<a href=\"//www.edisonvilla.hu/listing/04\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
 
 	},	
 	{	

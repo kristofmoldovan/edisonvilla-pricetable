@@ -88,7 +88,7 @@ var origObject = [
 		BalconySize: 9.54,
 		GardenSize: 24.80,
 		Price: 0,
-		Status: 'Foglalt',
+		Status: 'Eladva',
 		Link: '-'
 	},	
 	{	
@@ -411,9 +411,9 @@ var origObject = [
 		SquareMeter: 59.93,
 		BalconySize: 9.54,
 		GardenSize: 0,
-		Price: 49900000,
-		Status: 'Eladó',
-		Link: '<a href=\"//www.edisonvilla.hu/listing/310\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'        
+		Price: 0,
+		Status: 'Foglalt',
+		Link: '-'        
   },
   {
 		ApartmentNumber: '3_303',

@@ -10,7 +10,7 @@ var origObject = [
 		SquareMeter: 65.80,
 		BalconySize: 11.56,
 		GardenSize: 30,
-		Price: 54900000,
+		Price: 57800000,
 		Status: 'Eladó',
 		Link: '<a href=\"//www.edisonvilla.hu/listing/01\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
 
@@ -39,7 +39,7 @@ var origObject = [
 		SquareMeter: 37.56,
 		BalconySize: 8,
 		GardenSize: 0,
-		Price: 27900000,
+		Price: 29300000,
 		Status: 'Eladó',
 		Link: '<a href=\"//www.edisonvilla.hu/listing/04\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
 
@@ -116,7 +116,7 @@ var origObject = [
 		SquareMeter: 42.40,
 		BalconySize: 19.15,
 		GardenSize: 61.70,
-		Price: 43900000,
+		Price: 45900000,
 		Status: 'Eladó',
 		Link: '<a href=\"//www.edisonvilla.hu/listing/104\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
 
@@ -206,7 +206,7 @@ var origObject = [
 		SquareMeter: 65.71,
 		BalconySize: 11.56,
 		GardenSize: 0,
-		Price: 51600000,
+		Price: 54300000,
 		Status: 'Eladó',
 		Link: '<a href=\"//www.edisonvilla.hu/listing/205\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
 
@@ -236,7 +236,7 @@ var origObject = [
 		SquareMeter: 35.65,
 		BalconySize: 8.22,
 		GardenSize: 0,
-		Price: 29900000,
+		Price: 31395000,
 		Status: 'Eladó',
 		Link: '<a href=\"//www.edisonvilla.hu/listing/208\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
 
@@ -371,7 +371,7 @@ var origObject = [
 		SquareMeter: 35.42,
 		BalconySize: 7.63,
 		GardenSize: 0,
-		Price: 30900000,
+		Price: 32500000,
 		Status: 'Eladó',
 		Link: '<a href=\"//www.edisonvilla.hu/listing/306\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
 
@@ -381,7 +381,7 @@ var origObject = [
 		SquareMeter: 35.65,
 		BalconySize: 8.22,
 		GardenSize: 0,
-		Price: 30900000,
+		Price: 32500000,
 		Status: 'Eladó',
 		Link: '<a href=\"//www.edisonvilla.hu/listing/307\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
 
@@ -391,7 +391,7 @@ var origObject = [
 		SquareMeter: 35.65,
 		BalconySize: 8.22,
 		GardenSize: 0,
-		Price: 30900000,
+		Price: 32500000,
 		Status: 'Eladó',
 		Link: '<a href=\"//www.edisonvilla.hu/listing/308\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
 
@@ -401,7 +401,7 @@ var origObject = [
 		SquareMeter: 35.42,
 		BalconySize: 7.63,
 		GardenSize: 0,
-		Price: 30900000,
+		Price: 32500000,
 		Status: 'Eladó',
 		Link: '<a href=\"//www.edisonvilla.hu/listing/309\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
 
@@ -459,7 +459,7 @@ var origObject = [
 		SquareMeter: 31.77,
 		BalconySize: 8.22,
 		GardenSize: 0,
-		Price: 31900000,
+		Price: 33500000,
 		Status: 'Eladó',
 		Link: '<a href=\"//www.edisonvilla.hu/listing/314\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
 
@@ -479,7 +479,7 @@ var origObject = [
 		SquareMeter: 30.87,
 		BalconySize: 7.63,
 		GardenSize: 0,
-		Price: 31900000,
+		Price: 33500000,
 		Status: 'Eladó',
 		Link: '<a href=\"//www.edisonvilla.hu/listing/312\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
 
@@ -509,7 +509,7 @@ var origObject = [
 		SquareMeter: 37.05,
 		BalconySize: 12.98,
 		GardenSize: 0,
-		Price: 34900000,
+		Price: 36700000,
 		Status: 'Eladó',
 		Link: '<a href=\"//www.edisonvilla.hu/listing/302\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
 

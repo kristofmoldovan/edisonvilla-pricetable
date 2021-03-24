@@ -41,7 +41,7 @@ var origObject = [
 		GardenSize: 0,
 		Price: 0,
 		Status: 'Eladva',
-		Link: '-
+		Link: '-'
 	},	
 	{	
 		ApartmentNumber: '1_105',

@@ -93,8 +93,8 @@ var origObject = [
 	{	
 		ApartmentNumber: '1_110',
 		SquareMeter: 77.06,
-		BalconySize: 16,
-		GardenSize: 85.80,
+		BalconySize: 20,
+		GardenSize: 65,
 		Price: 57900000,
 		Status: 'Eladó',
 		Link: '<a href=\"//www.edisonvilla.hu/listing/110\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'

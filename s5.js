@@ -95,9 +95,9 @@ var origObject = [
 		SquareMeter: 77.06,
 		BalconySize: 20,
 		GardenSize: 65,
-		Price: 57900000,
-		Status: 'Eladó',
-		Link: '<a href=\"//www.edisonvilla.hu/listing/110\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
+		Price: 0,
+		Status: 'Eladva',
+		Link: '-'
 
 	},	
 	{	
@@ -106,7 +106,7 @@ var origObject = [
 		BalconySize: 13.74,
 		GardenSize: 47.2,
 		Price: 0,
-		Status: 'Foglalt',
+		Status: 'Eladva',
 		Link: '-'
 
 	},	
@@ -135,9 +135,9 @@ var origObject = [
 		SquareMeter: 39.12,
 		BalconySize: 7.63,
 		GardenSize: 0,
-		Price: 31400000,
-		Status: 'Eladó',
-		Link: '<a href=\"//www.edisonvilla.hu/listing/115\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
+		Price: 0,
+		Status: 'Eladva',
+		Link: '-'
 
 	},	
 	{	
@@ -145,9 +145,9 @@ var origObject = [
 		SquareMeter: 39.12,
 		BalconySize: 8.22,
 		GardenSize: 0,
-		Price: 31400000,
-		Status: 'Eladó',
-		Link: '<a href=\"//www.edisonvilla.hu/listing/114\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
+		Price: 0,
+		Status: 'Eladva',
+		Link: '-'
 
 	},	
 	{	
@@ -155,9 +155,9 @@ var origObject = [
 		SquareMeter: 39.12,
 		BalconySize: 8.22,
 		GardenSize: 0,
-		Price: 31400000,
-		Status: 'Eladó',
-		Link: '<a href=\"//www.edisonvilla.hu/listing/113\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
+		Price: 0,
+		Status: 'Eladva',
+		Link: '-'
 
 	},	
 	{	
@@ -196,7 +196,7 @@ var origObject = [
 		BalconySize: 11.85,
 		GardenSize: 0,
 		Price: 0,
-		Status: 'Foglalt',
+		Status: 'Eladva',
 		Link: '-'
 
 	},	
@@ -215,9 +215,9 @@ var origObject = [
 		SquareMeter: 35.42,
 		BalconySize: 7.63,
 		GardenSize: 0,
-		Price: 29900000,
-		Status: 'Eladó',
-		Link: '<a href=\"//www.edisonvilla.hu/listing/206\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
+		Price: 0,
+		Status: 'Eladva',
+		Link: '-'
 
 	},	
 	{	
@@ -411,7 +411,7 @@ var origObject = [
 		BalconySize: 9.54,
 		GardenSize: 0,
 		Price: 0,
-		Status: 'Foglalt',
+		Status: 'Eladva',
 		Link: '-'        
   },
   {

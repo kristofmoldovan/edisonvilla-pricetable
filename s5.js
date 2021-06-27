@@ -20,7 +20,7 @@ var origObject = [
 		SquareMeter: 85.20,
 		BalconySize: 18,
 		GardenSize: 54.20,
-		Price: 62500000,
+		Price: 68500000,
 		Status: 'Eladó',
 		Link: '<a href=\"//www.edisonvilla.hu/listing/02\" class=\"table-button"\ target=\"_self\"><u></u>Megnézem</a>'
 	},	
